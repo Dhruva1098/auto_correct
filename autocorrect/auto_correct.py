@@ -40,4 +40,4 @@ checker = SpellChecker("./big.txt")
 checker.check("serlock")
 
 
-#changes: converted the hocus pocus code to a class. Neatly coded, easy to understand, looks good
+
