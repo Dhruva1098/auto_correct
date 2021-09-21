@@ -38,6 +38,6 @@ class SpellChecker(object):
     
 checker = SpellChecker("./big.txt")
 checker.check("serlock")
-
+#ask for non class code 
 
 
